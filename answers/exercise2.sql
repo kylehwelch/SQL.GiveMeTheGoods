@@ -1,0 +1,1 @@
+SELECT * FROM students WHERE SUBSTR(city, 1, 1) = 'a' OR SUBSTR(city, 1, 1) = 'c' OR SUBSTR(city, 1, 1) = 's';

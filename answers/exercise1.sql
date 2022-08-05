@@ -1,0 +1,1 @@
+SELECT * FROM students WHERE SUBSTR(city, 2,1) = 'a';
